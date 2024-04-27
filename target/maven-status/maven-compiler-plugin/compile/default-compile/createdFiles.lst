@@ -1,0 +1,5 @@
+com\example\webpos\rest\api\ProductApi.class
+com\example\webpos\mapper\ProductMapperImpl.class
+com\example\webpos\rest\dto\ErrorDto.class
+com\example\webpos\rest\dto\ProductDto.class
+com\example\webpos\rest\api\ApiUtil.class
